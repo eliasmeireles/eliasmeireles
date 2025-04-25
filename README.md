@@ -1,4 +1,4 @@
-## Hello there, I'm [Elias Meireles](https://www.eliasmeireles.com)!
+## Hello there, I'm Elias Meireles
 
   
  <div style="display: inline_block">
